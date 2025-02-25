@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  
+    //Variables de Figma
+  --color-cardbg: #EBF3FE;
+  --color-cardbg-dark:#7CABF9;
+  --color-bodybg: #FFFFFF;
+  --color-bodybg-dark:#121212;
+  --color-h2: #193767;
+  --color-h2-dark:#13151A;
+  --color-paragraph: #5E6B81;
+  --color-paragraph-dark:#13151A;
+  --color-primary: #3676E0;
+  --color-primary-dark:#7CABF9;
+  --color-buttonbg: #3676E0;
+  --color-buttonbg-dark:#7CABF9;
+  --color-buttontext: #FFFFFF;
+  --color-buttontext-dark:#13151A;
+  --color-listbullet: #3676E0;
+  --color-listbullet-dark:#13151A;
+  --color-header: #13151A;
+  --color-header-dark:#FBFBFC;
+
+
+}
+
+
+
